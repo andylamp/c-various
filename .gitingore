@@ -1,0 +1,11 @@
+# redundant source related
+*~ 
+~* 
+
+*.c~ 
+*.h~ 
+
+*.o~ 
+*.o 
+
+*.core
